@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Computing & cognition in the context of the Human"
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Welcome to The Human in Computing and Cognition THiCC Lab! This lab exists to study, understand, and sometimes reimagine way that COmputing and Cognitive systems exist in the context of humans, especially the Human. We do so primarily through developing computational cognitive models, studying existing computing systems and engineering new ones, and contextualizing sociocultral theory. When it comes to contextualizing our work with sociocultural theory, we tend to focus on perspectives that venter blackness(and anitblackness).
 
 Jekyll also offers powerful support for code snippets:
 
