@@ -4,7 +4,7 @@ title:  "Computing & cognition in the context of the Human"
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg
 ---
-Welcome to The Human in Computing and Cognition THiCC Lab! This lab exists to study, understand, and sometimes reimagine way that COmputing and Cognitive systems exist in the context of humans, especially the Human. We do so primarily through developing computational cognitive models, studying existing computing systems and engineering new ones, and contextualizing sociocultral theory. When it comes to contextualizing our work with sociocultural theory, we tend to focus on perspectives that venter blackness(and anitblackness).
+<p>Welcome to The Human in Computing and Cognition THiCC Lab! This lab exists to study, understand, and sometimes reimagine way that Computing and Cognitive systems exist in the context of humans, especially the Human. We do so primarily through developing computational cognitive models, studying existing computing systems and engineering new ones, and contextualizing sociocultral theory. When it comes to contextualizing our work with sociocultural theory, we tend to focus on perspectives that venter blackness(and anitblackness).</p>
 
 Jekyll also offers powerful support for code snippets:
 
