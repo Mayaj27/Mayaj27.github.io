@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "THiCC Lab Members"
 layout: page-sidebar
 permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
