@@ -1,5 +1,5 @@
 ---
-title: "Buy me a coffee"
+title: "Projects"
 permalink: "/buy-me-a-coffee.html"
 ---
 
